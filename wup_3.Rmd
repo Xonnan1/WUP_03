@@ -56,6 +56,8 @@ Looking at the overall data I noticed that the pr(>F) was a small value accordin
 plot(TukeyHSD(model1))
 ```
 
+I noticed the front-back is below the 0 point of the interval while the middle-back is the same way as the front-back as its behind the 0. However, the middle-front indicates that the the interval passes the 0 point making the family's inherently different than those behind the 0 interval. Overall the 95% family wise confidence level is the front-back and middle-back and the rest is the middle-front.
+
 ## Conclusions
 
 
