@@ -45,6 +45,11 @@ The Front has up to 40 people while the middle has 89 however, the back has the 
 
 ## Inferential Tests
 
+```{r}
+model1 <- aov(alcohol~Seat,data=davisdata)
+summary.aov(model1)
+```
+
 
 
 ## Conclusions
