@@ -50,7 +50,7 @@ model1 <- aov(alcohol~Seat,data=davisdata)
 summary.aov(model1)
 ```
 
-
+Looking at the overall data I noticed that the pr(>F) was a small value according to all the data.
 
 ## Conclusions
 
