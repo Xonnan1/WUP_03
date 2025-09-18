@@ -60,4 +60,4 @@ I noticed the front-back is below the 0 point of the interval while the middle-b
 
 ## Conclusions
 
-
+The numerical summary indicated that the seats were inherently different especially the back seats as they had the lowest number however, the standard deviation was higher the front and middle seats. As for inferential Tests the pr value had a low value up to 0.000116 for seats indicating the low value overall. While the front-back and middle-back were behind the 0 interval the middle-front was inherently different from the rest as they passed the 0 interval in confidence level.
