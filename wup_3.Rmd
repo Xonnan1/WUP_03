@@ -41,7 +41,11 @@ basicCN + geom_boxplot(notch=TRUE,outlier.color = "red") + stat_boxplot(geom ='e
 favstats(alcohol~Seat,data=ucdavis1)
 ```
 
+The Front has up to 40 people while the middle has 89 however, the back has the lowest amount of people. However the standard deviation in each seat different as the back seat has a higher amount of 12.58 than the front and middle.
+
 ## Inferential Tests
+
+
 
 ## Conclusions
 
